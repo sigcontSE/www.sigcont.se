@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: [sigCont]
+title: "[sigCont]"
 subtitle:
 description:
 keywords:
 author: Samuel Tegenfeldt
-language: 
+language: en
 timezone:
 
 # URL
@@ -31,18 +31,19 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
+titlecase: true # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
-relative_link: false
+post_asset_folder: true
+relative_link: true
 future: true
 highlight:
   enable: true
   line_number: true
   auto_detect: false
   tab_replace:
+
   
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -54,7 +55,7 @@ index_generator:
   order_by: -date
   
 # Category & Tag
-default_category: uncategorized
+default_category: na
 category_map:
 tag_map:
 
@@ -73,9 +74,14 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: cactus-sc
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# RSS Feed
+rss:
+
+search: /Search/

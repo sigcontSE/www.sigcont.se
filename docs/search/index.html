@@ -7,12 +7,13 @@
     <meta name="HandheldFriendly" content="True">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta property="og:type" content="website">
-<meta property="og:title" content="[sigCont]">
-<meta property="og:url" content="http://www.sigcont.se/archives/index.html">
+<meta property="og:title" content="Search">
+<meta property="og:url" content="http://www.sigcont.se/search/index.html">
 <meta property="og:site_name" content="[sigCont]">
 <meta property="og:locale" content="en">
+<meta property="og:updated_time" content="2018-10-18T09:06:52.491Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="[sigCont]">
+<meta name="twitter:title" content="Search">
     
     
         
@@ -32,7 +33,7 @@
         
     
     <!-- title -->
-    <title>[sigCont]</title>
+    <title>Search</title>
     <!-- styles -->
     <link rel="stylesheet" href="../css/style.css">
     <!-- persian styles -->
@@ -78,37 +79,22 @@
 </header>
 
         
-        <div id="archive">
-  <ul class="post-list">
-    
-    
-    
-      
-      
-      
-      
-        <h2>2018</h2>
-      
-      <li class="post-item">
-        
-    <div class="meta">
-        <time datetime="2018-10-18T06:33:42.796Z" itemprop="datePublished">2018-10-18</time>
-    </div>
-
-
-        <span>
-    
-        <a class="" href="../2018/10/18/hello-world/">Hello World</a>
-    
-
-
-</span>
-      </li>
-    
-  </ul>
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   
 
-</div>
+  <div class="content" itemprop="articleBody">
+      
+        <section id="search">
+  <form>
+    <input type="text" class="search-input" id="search-input" placeholder="Search...">
+  </form>
+  <div id="search-result"></div>
+  <p class="search-no-result">No results found.</p>
+</section>
+
+      
+  </div>
+</article>
 
         
         <footer id="footer">
@@ -144,6 +130,35 @@
 <script src="../lib/justified-gallery/js/jquery.justifiedGallery.min.js"></script>
 <script src="../js/main.js"></script>
 <!-- search -->
+
+  <script src="../js/search.js"></script>
+  <script type="text/javascript">
+    var inputArea = document.querySelector("#search-input");
+    var $resultArea = $("#search-result");
+
+    inputArea.onfocus = function() {
+      var search_path = "search.xml";
+      if (search_path.length == 0) {
+        search_path = "search.xml";
+      }
+      var path = "/" + search_path;
+      searchFunc(path, 'search-input', 'search-result');
+    }
+
+    inputArea.onkeydown = function(){
+        if(event.keyCode==13){
+            return false
+        }
+    }
+
+    $resultArea.bind("DOMNodeRemoved DOMNodeInserted", function(e) {
+        if (!$(e.target).text()) {
+            $(".search-no-result").show(200);
+        } else {
+            $(".search-no-result").hide();
+        }
+    })
+  </script>
 
 <!-- Google Analytics -->
 
