@@ -1,0 +1,4 @@
+---
+title: "Recept"
+# layout: collectionList
+---

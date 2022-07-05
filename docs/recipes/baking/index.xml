@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bakning on sigCont</title>
+    <link>https://www.sigcont.se/recipes/baking/</link>
+    <description>Recent content in Bakning on sigCont</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Thu, 23 Jun 2022 13:18:43 +0200</lastBuildDate><atom:link href="https://www.sigcont.se/recipes/baking/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

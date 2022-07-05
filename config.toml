@@ -6,37 +6,40 @@ publishDir = "docs"
 theme = "cactus"
 enableGitInfo = true
 enableRobotsTXT = true
+sectionPagesMenu = "main"
+pluralizeListTitles = false
 
 [params]
-
-  dateFormat = "2006-01-02"
   showAllPostsArchive = true
+  ShowAllPostsOnHomePage = true
+  dateFormat = "2006-01-02"
   tocInline = true
   rss = true
   tagsOverview = false
   #mainSection = "p"
-  mainSectionTitle = 'Senaste'
+  mainSectionTitle = 'Senaste Nytt'
+
   
 # Main Meny
-[[menu.main]]
-name = "Hem"
-url = "/"
-weight = 1
+# [[menu.main]]
+# name = "Hem"
+# url = "/"
+# weight = 1
 
-[[menu.main]]
-name = "Skriverier"
-url = "/p"
-weight = 2
+# [[menu.main]]
+# name = "Skriverier"
+# url = "/p"
+# weight = 2
 
-[[menu.main]]
-name = "Samlingar"
-url = "/c"
-weight = 3
+# [[menu.main]]
+# name = "Samlingar"
+# url = "/c"
+# weight = 3
 
-[[menu.main]]
-name = "Taggar"
-url = "/tags"
-weight = 4
+# [[menu.main]]
+# name = "Taggar"
+# url = "/tags"
+# weight = 4
 
 
 [markup]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recept on sigCont</title>
+    <link>https://www.sigcont.se/recipes/</link>
+    <description>Recent content in Recept on sigCont</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Sun, 03 Jul 2022 13:44:43 +0200</lastBuildDate><atom:link href="https://www.sigcont.se/recipes/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
