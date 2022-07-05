@@ -1,0 +1,59 @@
+baseURL = "https://www.sigcont.se/"
+languageCode = "sv-se"
+title = "sigCont"
+googleAnalytics = "UA-123456789-1"
+publishDir = "docs"
+theme = "cactus"
+enableGitInfo = true
+enableRobotsTXT = true
+sectionPagesMenu = "main"
+pluralizeListTitles = false
+
+[params]
+  showAllPostsArchive = true
+  ShowAllPostsOnHomePage = true
+  dateFormat = "2006-01-02"
+  tocInline = true
+  rss = true
+  tagsOverview = false
+  #mainSection = "p"
+  mainSectionTitle = 'Senaste Nytt'
+
+  
+# Main Meny
+# [[menu.main]]
+# name = "Hem"
+# url = "/"
+# weight = 1
+
+# [[menu.main]]
+# name = "Skriverier"
+# url = "/p"
+# weight = 2
+
+# [[menu.main]]
+# name = "Samlingar"
+# url = "/c"
+# weight = 3
+
+# [[menu.main]]
+# name = "Taggar"
+# url = "/tags"
+# weight = 4
+
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    style = "dracula"
+    tabWidth = 4
