@@ -4,8 +4,19 @@ title = "sigCont"
 googleAnalytics = "UA-123456789-1"
 publishDir = "docs"
 theme = "cactus"
+enableGitInfo = true
+enableRobotsTXT = true
 
+[params]
 
+  dateFormat = "2006-01-02"
+  showAllPostsArchive = true
+  tocInline = true
+  rss = true
+  tagsOverview = false
+  #mainSection = "p"
+  mainSectionTitle = 'Senaste'
+  
 # Main Meny
 [[menu.main]]
 name = "Hem"
@@ -43,9 +54,3 @@ weight = 4
     noClasses = true
     style = "dracula"
     tabWidth = 4
-
-[params]
-
-dateFormat = "2006-01-02"
-showAllPostsArchive = true
-tocInline = true

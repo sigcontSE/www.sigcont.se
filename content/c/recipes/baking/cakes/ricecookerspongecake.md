@@ -2,10 +2,16 @@
 title: "Sponge Cake i Riskokare - Grundrecept"
 date: 2022-06-23T13:18:43+02:00
 draft: false
+comments: false
 tags:
 - kaka
 - riskokare
 - japansk
+- recept
+categories:
+- recipes
+- baking
+- cakes
 ---
 
 # Sponge Cake i Riskokare - Grundrecept
@@ -35,3 +41,4 @@ Recept till en YumAsia Panda riskokare, 2-3 personer
 8. Häll i smeten, knacka botten för att släppa de största bubblorna
 9. Baka i riskokaren. 30 minuter på "Cake"-inställning. 
 10. Låt stå 5-10 minuter på varmhållning, kolla med tandpetare om kakan är klar. Om mer tid behövs, stäng locket och låt stå på varmhålling. Kolla var femte minut till kakan är klar.
+11. Vänd ur på ett fat eller tallrik och låt svalna lite.
