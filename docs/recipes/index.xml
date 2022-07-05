@@ -5,7 +5,6 @@
     <link>https://www.sigcont.se/recipes/</link>
     <description>Recent content in Recept on sigCont</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sv-se</language>
-    <lastBuildDate>Sun, 03 Jul 2022 13:44:43 +0200</lastBuildDate><atom:link href="https://www.sigcont.se/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <language>sv-se</language><atom:link href="https://www.sigcont.se/recipes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
