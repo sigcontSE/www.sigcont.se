@@ -6,9 +6,9 @@ draft: false
 
 # {{ replace .Name "-" " " | title }}
 
-## Ingredienser 
+<kort beskrivning>
 
-<short description>
+## Ingredienser 
 
 - list
 - of

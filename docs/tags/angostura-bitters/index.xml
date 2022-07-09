@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Drinkar on sigCont</title>
-    <link>https://www.sigcont.se/recipes/drinks/</link>
-    <description>Recent content in Drinkar on sigCont</description>
+    <title>angostura bitters on sigCont</title>
+    <link>https://www.sigcont.se/tags/angostura-bitters/</link>
+    <description>Recent content in angostura bitters on sigCont</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sv-se</language><atom:link href="https://www.sigcont.se/recipes/drinks/index.xml" rel="self" type="application/rss+xml" />
+    <language>sv-se</language>
+    <lastBuildDate>Sat, 09 Jul 2022 22:40:12 +0200</lastBuildDate><atom:link href="https://www.sigcont.se/tags/angostura-bitters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dark Rumhattan</title>
       <link>https://www.sigcont.se/recipes/drinks/dark-rumhattan/</link>
