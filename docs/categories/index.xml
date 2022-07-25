@@ -6,7 +6,34 @@
     <description>Recent content in Categories on sigCont</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 09 Jul 2022 23:05:15 +0200</lastBuildDate><atom:link href="https://www.sigcont.se/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jul 2022 13:12:53 +0200</lastBuildDate><atom:link href="https://www.sigcont.se/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>beverages</title>
+      <link>https://www.sigcont.se/categories/beverages/</link>
+      <pubDate>Mon, 25 Jul 2022 13:12:53 +0200</pubDate>
+      
+      <guid>https://www.sigcont.se/categories/beverages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>food</title>
+      <link>https://www.sigcont.se/categories/food/</link>
+      <pubDate>Mon, 25 Jul 2022 13:12:53 +0200</pubDate>
+      
+      <guid>https://www.sigcont.se/categories/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recipes</title>
+      <link>https://www.sigcont.se/categories/recipes/</link>
+      <pubDate>Mon, 25 Jul 2022 13:12:53 +0200</pubDate>
+      
+      <guid>https://www.sigcont.se/categories/recipes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cocktail</title>
       <link>https://www.sigcont.se/categories/cocktail/</link>
@@ -22,24 +49,6 @@
       <pubDate>Sat, 09 Jul 2022 23:05:15 +0200</pubDate>
       
       <guid>https://www.sigcont.se/categories/drink/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>food</title>
-      <link>https://www.sigcont.se/categories/food/</link>
-      <pubDate>Sun, 03 Jul 2022 13:44:43 +0200</pubDate>
-      
-      <guid>https://www.sigcont.se/categories/food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>recipes</title>
-      <link>https://www.sigcont.se/categories/recipes/</link>
-      <pubDate>Sun, 03 Jul 2022 13:44:43 +0200</pubDate>
-      
-      <guid>https://www.sigcont.se/categories/recipes/</guid>
       <description></description>
     </item>
     
