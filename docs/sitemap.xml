@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sigcont.se/photo/photowalks/20221009/</loc>
+    <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sigcont.se/photo/</loc>
+    <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sigcont.se/photo/photowalks/</loc>
+    <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sigcont.se/</loc>
+    <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.sigcont.se/categories/beverages/</loc>
     <lastmod>2022-07-25T13:28:27+02:00</lastmod>
   </url><url>
     <loc>https://www.sigcont.se/categories/</loc>
-    <lastmod>2022-07-25T13:28:27+02:00</lastmod>
+    <lastmod>2022-07-26T23:42:14+02:00</lastmod>
   </url><url>
     <loc>https://www.sigcont.se/categories/food/</loc>
     <lastmod>2022-07-25T13:28:27+02:00</lastmod>
@@ -29,29 +41,29 @@
     <loc>https://www.sigcont.se/categories/recipes/</loc>
     <lastmod>2022-07-25T13:28:27+02:00</lastmod>
   </url><url>
-    <loc>https://www.sigcont.se/</loc>
-    <lastmod>2022-07-25T13:28:27+02:00</lastmod>
-  </url><url>
     <loc>https://www.sigcont.se/tags/</loc>
-    <lastmod>2022-07-25T13:28:27+02:00</lastmod>
+    <lastmod>2022-07-26T23:42:14+02:00</lastmod>
+  </url><url>
+    <loc>https://www.sigcont.se/photo/photowalks/20220711/</loc>
+    <lastmod>2022-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.sigcont.se/categories/cocktail/</loc>
-    <lastmod>2022-07-09T23:15:02+02:00</lastmod>
+    <lastmod>2022-07-26T23:42:14+02:00</lastmod>
   </url><url>
     <loc>https://www.sigcont.se/tags/drambuie/</loc>
-    <lastmod>2022-07-09T23:15:02+02:00</lastmod>
+    <lastmod>2022-07-26T23:42:14+02:00</lastmod>
   </url><url>
     <loc>https://www.sigcont.se/categories/drink/</loc>
-    <lastmod>2022-07-09T23:15:02+02:00</lastmod>
+    <lastmod>2022-07-26T23:42:14+02:00</lastmod>
   </url><url>
     <loc>https://www.sigcont.se/recipes/drinks/rusty-nail-s%C3%B6tare/</loc>
     <lastmod>2022-07-09T23:05:15+02:00</lastmod>
   </url><url>
     <loc>https://www.sigcont.se/tags/whisky/</loc>
-    <lastmod>2022-07-09T23:15:02+02:00</lastmod>
+    <lastmod>2022-07-26T23:42:14+02:00</lastmod>
   </url><url>
     <loc>https://www.sigcont.se/recipes/drinks/rusty-nail/</loc>
-    <lastmod>2022-07-09T23:15:02+02:00</lastmod>
+    <lastmod>2022-07-26T23:42:14+02:00</lastmod>
   </url><url>
     <loc>https://www.sigcont.se/tags/absinthe/</loc>
     <lastmod>2022-07-09T23:15:02+02:00</lastmod>
@@ -130,6 +142,9 @@
   </url><url>
     <loc>https://www.sigcont.se/blog/test/</loc>
     <lastmod>2022-07-05T20:17:38+02:00</lastmod>
+  </url><url>
+    <loc>https://www.sigcont.se/photo/photowalks/20200923/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.sigcont.se/recipes/baking/</loc>
     <lastmod>2022-07-05T20:17:38+02:00</lastmod>
