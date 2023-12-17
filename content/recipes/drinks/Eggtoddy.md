@@ -1,6 +1,6 @@
 ---
 title: "Äggtoddy"
-date: 2022-07-09T22:56:28+02:00
+date: 2023-12-17
 draft: false
 categories:
 - cocktail
