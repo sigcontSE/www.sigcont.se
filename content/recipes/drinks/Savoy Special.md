@@ -26,6 +26,16 @@ Anpassa mängderna proportionerligt så de passar i dina martiniglas.
 - 10 ml Grenadine
 - 15 ml Absinthe
 
+## Ingredienser, Bagarprocent
+
+- **100% Gin**
+- 50% Dry Vermouth
+- 17% Grenadine
+- 25% Absinthe
+
+Anpassa mängderna proportionerligt så de passar i dina martiniglas.
+Fet stil markerar basingrediensen i receptet.
+
 ## Instruktioner
 
 Sätt glas på kylning i frysen om det inte redan är gjort. 
