@@ -8,25 +8,28 @@ tags:
 - grundrecept
 - tomtegröt
 - risgrynsgröt
+- ris
 categories:
 - recipes
 - food
+- porridge
 ---
 
 # Risgrynsgröt i Riskokare - Grundrecept
 
 ## Ingredienser
 
-Recept till en YumAsia Panda riskokare, 3-4 personer
+Recept till en YumAsia Panda riskokare, 3-4 personer.  
+Baserat på recept i manualen.
 
 Med "kopp" menas den som följer med riskokare. Till Panda är det 180 ml.
 
 - 1 kopp ris (kort, ex. arbori eller grötris)
-- 1 kopp ris
-- ca. 0.5 dl strösocker (valfritt)
-- 25 g smör (alt. kokosfett)
+- 1 kopp vatten
 - 2 koppar mjölk
+- 25 g smör (alt. kokosfett)
 - 1 st kanelstång
+- ca. 0.5 dl strösocker (valfritt)
 
 ## Instruktioner
 
